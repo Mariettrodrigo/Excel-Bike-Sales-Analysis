@@ -2,14 +2,14 @@
 
 ## Executive Summary
 
-This report presents key findings from the analysis of 100 customer records in the bike sales dataset. The analysis reveals significant patterns in purchasing behavior based on demographics, income, and commuting patterns.
+This report presents key findings from the analysis of 97 customer records in the bike sales dataset. The analysis reveals significant patterns in purchasing behavior based on demographics, income, and commuting patterns.
 
 ## Key Findings
 
 ### 1. Overall Performance
-- **Total Customers Analyzed**: 100
-- **Bikes Purchased**: 53 (53.0%)
-- **No Purchase**: 47 (47.0%)
+- **Total Customers Analyzed**: 97
+- **Bikes Purchased**: 51 (52.6%)
+- **No Purchase**: 46 (47.4%)
 - **Average Buyer Income**: $66,226
 - **Average Non-Buyer Income**: $55,957
 
@@ -391,7 +391,7 @@ By focusing on high-conversion segments and addressing barriers in underperformi
 
 ## Methodology Note
 
-This analysis is based on 100 customer records including demographic, financial, and behavioral data. Insights are derived from pivot table analysis and cross-tabulation of variables. All percentages and averages calculated using Excel's standard statistical functions.
+This analysis is based on 97 customer records including demographic, financial, and behavioral data. Insights are derived from pivot table analysis and cross-tabulation of variables. All percentages and averages calculated using Excel's standard statistical functions.
 
 **Data Quality**: ✅ Verified, validated, no missing values
 **Analysis Date**: Current

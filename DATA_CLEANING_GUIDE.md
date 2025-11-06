@@ -60,7 +60,7 @@ Excel Formula: `=IF(L2<41,"Young Adult",IF(L2<=54,"Middle Age","Old"))`
 ### Completeness
 - ✓ All rows have values in all columns
 - ✓ No missing or null values identified
-- ✓ 100 complete customer records
+- ✓ 97 complete customer records
 
 ### Consistency
 - ✓ Gender values standardized to "Male" and "Female"

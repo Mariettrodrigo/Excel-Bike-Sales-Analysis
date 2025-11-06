@@ -21,7 +21,7 @@ This project demonstrates comprehensive data analysis skills using Microsoft Exc
 ## 📁 Repository Contents
 
 ### Data Files
-- `bike_sales_raw_data.csv` - Original dataset with 100 customer records (uncleaned)
+- `bike_sales_raw_data.csv` - Original dataset with 97 customer records (uncleaned)
 - `bike_sales_cleaned_data.csv` - Processed dataset ready for analysis
 
 ### Documentation
