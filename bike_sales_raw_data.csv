@@ -1,0 +1,98 @@
+ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Commute Distance,Region,Age,Purchased Bike
+12496,M,F,40000,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,No
+24107,M,M,30000,3,Partial College,Clerical,Yes,1,0-1 Miles,Europe,43,No
+14177,M,M,80000,5,Partial College,Professional,No,2,2-5 Miles,Europe,60,No
+24381,S,M,70000,0,Bachelors,Professional,Yes,1,5-10 Miles,Europe,41,Yes
+25597,S,M,90000,2,Bachelors,Professional,Yes,2,0-1 Miles,Europe,46,Yes
+25982,M,F,40000,0,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,43,No
+13877,S,F,30000,0,Bachelors,Clerical,Yes,1,2-5 Miles,Europe,43,No
+17710,M,M,80000,3,Partial College,Professional,Yes,2,2-5 Miles,Europe,57,Yes
+14110,M,F,60000,3,Partial College,Professional,Yes,2,5-10 Miles,Europe,46,No
+24408,S,F,80000,5,Bachelors,Professional,Yes,2,0-1 Miles,Europe,31,Yes
+18641,M,M,30000,4,Bachelors,Skilled Manual,Yes,1,10+ Miles,Europe,36,No
+12215,S,M,80000,0,Partial College,Professional,Yes,2,0-1 Miles,Europe,36,Yes
+20110,S,M,40000,0,Bachelors,Clerical,No,1,1-2 Miles,Europe,35,Yes
+28910,M,F,70000,2,Bachelors,Professional,Yes,2,2-5 Miles,Europe,48,Yes
+11067,S,M,60000,0,Bachelors,Professional,Yes,1,10+ Miles,Europe,30,Yes
+27913,M,M,30000,0,High School,Skilled Manual,No,1,0-1 Miles,Europe,57,No
+20938,S,F,70000,2,Partial College,Professional,Yes,1,5-10 Miles,Pacific,37,Yes
+14797,M,M,40000,2,Partial College,Clerical,Yes,0,0-1 Miles,North America,48,No
+25309,M,F,60000,0,Bachelors,Professional,Yes,3,2-5 Miles,Pacific,54,Yes
+17373,S,M,80000,0,Bachelors,Management,Yes,2,5-10 Miles,Pacific,31,Yes
+19468,M,M,100000,3,Partial High School,Professional,Yes,4,10+ Miles,Pacific,53,Yes
+17826,M,F,30000,0,High School,Clerical,Yes,1,0-1 Miles,North America,50,No
+14510,M,M,60000,0,Partial College,Professional,Yes,1,1-2 Miles,North America,36,Yes
+25597,S,M,40000,1,High School,Skilled Manual,Yes,1,5-10 Miles,North America,40,No
+28736,M,F,80000,4,Bachelors,Professional,No,2,0-1 Miles,Pacific,44,Yes
+22031,S,M,70000,0,Bachelors,Professional,Yes,2,10+ Miles,Pacific,35,Yes
+11932,M,F,30000,2,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,47,No
+24913,S,M,50000,0,Partial College,Clerical,Yes,1,1-2 Miles,North America,42,Yes
+16198,M,M,90000,1,Bachelors,Professional,Yes,3,2-5 Miles,North America,52,Yes
+15608,S,F,60000,0,Bachelors,Professional,No,1,0-1 Miles,Pacific,37,Yes
+29096,S,M,60000,0,Partial College,Professional,Yes,2,10+ Miles,North America,34,Yes
+15931,M,F,40000,1,Partial College,Clerical,Yes,1,5-10 Miles,Pacific,55,No
+24238,M,M,40000,2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,42,No
+17638,S,M,80000,3,Partial College,Professional,Yes,2,2-5 Miles,Pacific,38,Yes
+21679,M,F,60000,5,Bachelors,Professional,Yes,1,0-1 Miles,North America,41,No
+13157,S,M,70000,0,Bachelors,Professional,No,2,10+ Miles,Pacific,39,Yes
+19993,M,M,50000,2,High School,Skilled Manual,Yes,1,1-2 Miles,Pacific,45,No
+24711,S,F,90000,0,Bachelors,Professional,Yes,3,0-1 Miles,North America,28,Yes
+11283,M,M,30000,2,Partial High School,Manual,Yes,1,0-1 Miles,North America,54,No
+17776,S,F,70000,0,Graduate Degree,Professional,Yes,1,5-10 Miles,Pacific,32,Yes
+28521,M,M,80000,1,Bachelors,Management,Yes,2,2-5 Miles,Pacific,56,Yes
+11316,S,M,90000,0,Bachelors,Professional,Yes,2,1-2 Miles,North America,31,Yes
+24671,M,F,40000,3,High School,Clerical,Yes,0,0-1 Miles,North America,49,No
+15304,S,M,60000,0,Bachelors,Professional,Yes,1,10+ Miles,Pacific,33,Yes
+21846,M,F,50000,2,Partial College,Clerical,No,1,2-5 Miles,Pacific,44,No
+19942,S,M,70000,0,Bachelors,Professional,Yes,2,5-10 Miles,North America,36,Yes
+13069,M,M,30000,4,Partial High School,Skilled Manual,Yes,1,0-1 Miles,Pacific,58,No
+28310,S,F,80000,0,Graduate Degree,Professional,Yes,2,0-1 Miles,Pacific,29,Yes
+12345,M,M,90000,2,Bachelors,Management,Yes,3,1-2 Miles,North America,50,Yes
+17892,S,M,60000,0,Partial College,Professional,Yes,1,10+ Miles,Pacific,35,Yes
+25108,M,F,40000,1,Bachelors,Clerical,Yes,1,5-10 Miles,North America,46,No
+14521,S,M,100000,0,Graduate Degree,Management,Yes,4,2-5 Miles,Pacific,33,Yes
+29477,M,F,50000,3,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,40,No
+18863,S,M,70000,0,Bachelors,Professional,Yes,2,10+ Miles,North America,37,Yes
+11405,M,M,60000,2,High School,Skilled Manual,Yes,1,1-2 Miles,Pacific,53,No
+24916,S,F,80000,0,Bachelors,Professional,Yes,2,0-1 Miles,North America,30,Yes
+13264,M,M,30000,5,Partial High School,Manual,Yes,0,0-1 Miles,Pacific,61,No
+20135,S,M,90000,0,Graduate Degree,Professional,Yes,3,5-10 Miles,Pacific,32,Yes
+17509,M,F,40000,1,Bachelors,Clerical,Yes,1,2-5 Miles,North America,47,No
+26854,S,M,70000,0,Bachelors,Professional,No,2,10+ Miles,Pacific,36,Yes
+19205,M,M,50000,3,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,44,No
+15837,S,F,60000,0,Bachelors,Professional,Yes,1,1-2 Miles,Pacific,34,Yes
+28439,M,M,80000,2,Bachelors,Management,Yes,2,2-5 Miles,North America,51,Yes
+12678,S,F,90000,0,Graduate Degree,Professional,Yes,3,0-1 Miles,Pacific,28,Yes
+21094,M,M,30000,4,High School,Manual,Yes,1,0-1 Miles,North America,55,No
+13589,S,M,100000,0,Graduate Degree,Management,Yes,4,5-10 Miles,Pacific,34,Yes
+25741,M,F,40000,2,Partial College,Clerical,No,0,10+ Miles,Pacific,48,No
+16320,S,M,70000,0,Bachelors,Professional,Yes,2,1-2 Miles,North America,35,Yes
+19874,M,F,50000,1,Bachelors,Skilled Manual,Yes,1,2-5 Miles,Pacific,45,No
+28105,S,M,60000,0,Partial College,Professional,Yes,1,10+ Miles,Pacific,33,Yes
+11753,M,M,80000,3,Bachelors,Professional,Yes,2,0-1 Miles,North America,49,Yes
+24385,S,F,90000,0,Bachelors,Professional,Yes,3,5-10 Miles,Pacific,31,Yes
+17041,M,M,30000,2,Partial High School,Skilled Manual,Yes,1,1-2 Miles,Pacific,56,No
+20864,S,M,70000,0,Bachelors,Professional,No,2,10+ Miles,North America,38,Yes
+13895,M,F,40000,4,High School,Clerical,Yes,0,0-1 Miles,Pacific,50,No
+26213,S,M,60000,0,Partial College,Professional,Yes,1,2-5 Miles,Pacific,36,Yes
+19582,M,M,100000,1,Graduate Degree,Management,Yes,4,1-2 Miles,North America,47,Yes
+15196,S,F,50000,0,Bachelors,Clerical,Yes,1,5-10 Miles,Pacific,32,No
+28674,M,M,80000,2,Bachelors,Professional,Yes,2,0-1 Miles,North America,52,Yes
+12057,S,F,70000,0,Bachelors,Professional,Yes,2,10+ Miles,Pacific,34,Yes
+21436,M,M,30000,3,Partial High School,Manual,No,1,0-1 Miles,Pacific,57,No
+14728,S,M,90000,0,Graduate Degree,Professional,Yes,3,2-5 Miles,Pacific,29,Yes
+25912,M,F,40000,1,Bachelors,Clerical,Yes,1,1-2 Miles,North America,46,No
+18364,S,M,60000,0,Partial College,Professional,Yes,1,10+ Miles,Pacific,35,Yes
+23095,M,F,50000,2,High School,Skilled Manual,Yes,1,5-10 Miles,North America,43,No
+16581,S,M,80000,0,Bachelors,Professional,No,2,0-1 Miles,Pacific,37,Yes
+29320,M,M,70000,4,Partial College,Professional,Yes,2,2-5 Miles,North America,54,Yes
+11694,S,F,60000,0,Bachelors,Professional,Yes,1,10+ Miles,Pacific,33,Yes
+24157,M,M,90000,2,Bachelors,Management,Yes,3,1-2 Miles,Pacific,51,Yes
+17938,S,F,30000,0,Partial High School,Clerical,Yes,1,0-1 Miles,North America,48,No
+20514,M,M,100000,1,Graduate Degree,Professional,Yes,4,5-10 Miles,Pacific,35,Yes
+13476,S,F,40000,3,High School,Clerical,No,0,10+ Miles,Pacific,49,No
+26789,M,M,70000,0,Bachelors,Professional,Yes,2,2-5 Miles,North America,39,Yes
+19240,S,F,50000,0,Partial College,Skilled Manual,Yes,1,1-2 Miles,Pacific,34,No
+15623,M,M,60000,2,Bachelors,Professional,Yes,1,10+ Miles,North America,45,Yes
+28491,S,F,80000,0,Bachelors,Professional,Yes,2,0-1 Miles,Pacific,30,Yes
+12289,M,M,90000,1,Graduate Degree,Management,Yes,3,5-10 Miles,Pacific,48,Yes

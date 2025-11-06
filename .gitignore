@@ -1,0 +1,32 @@
+# Excel temporary files
+~$*.xls*
+~$*.xlsx
+*.xlk
+
+# Excel backup files
+*.xlsb
+*~
+
+# Temporary files
+*.tmp
+.~lock.*
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Build artifacts (if any automation is added)
+/dist/
+/build/
+/output/
